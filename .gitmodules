@@ -10,3 +10,6 @@
 [submodule "exercise-tracker-fcc"]
 	path = exercise-tracker-fcc
 	url = https://github.com/pallab-nandi/exercise-tracker-fcc.git
+[submodule "file-metadata-microservice-fcc"]
+	path = file-metadata-microservice-fcc
+	url = https://github.com/pallab-nandi/file-metadata-microservice-fcc.git
