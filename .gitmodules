@@ -7,3 +7,6 @@
 [submodule "url-shortner-microservice-fcc"]
 	path = url-shortner-microservice-fcc
 	url = https://github.com/pallab-nandi/url-shortner-microservice-fcc.git
+[submodule "exercise-tracker-fcc"]
+	path = exercise-tracker-fcc
+	url = https://github.com/pallab-nandi/exercise-tracker-fcc.git
