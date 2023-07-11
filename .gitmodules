@@ -4,3 +4,6 @@
 [submodule "request-header-parser-microservice-fcc"]
 	path = request-header-parser-microservice-fcc
 	url = https://github.com/pallab-nandi/request-header-parser-microservice-fcc.git
+[submodule "url-shortner-microservice-fcc"]
+	path = url-shortner-microservice-fcc
+	url = https://github.com/pallab-nandi/url-shortner-microservice-fcc.git
